@@ -1,0 +1,28 @@
+F:\18-38341-2\Diary\Diary\bin\Debug\Diary.exe.config
+F:\18-38341-2\Diary\Diary\bin\Debug\Diary.exe
+F:\18-38341-2\Diary\Diary\bin\Debug\Diary.pdb
+F:\18-38341-2\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+F:\18-38341-2\Diary\Diary\obj\Debug\Diary.DiaryForm.resources
+F:\18-38341-2\Diary\Diary\obj\Debug\Diary.HomePage.resources
+F:\18-38341-2\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+F:\18-38341-2\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+F:\18-38341-2\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+F:\18-38341-2\Diary\Diary\obj\Debug\Diary.exe
+F:\18-38341-2\Diary\Diary\obj\Debug\Diary.pdb
+F:\18-38341-2\Diary\Diary\obj\Debug\Diary.SignUp.resources
+F:\18-38341-2\Diary\Diary\obj\Debug\Diary.LogIn.resources
+F:\18-38341-2\Diary\Diary\obj\Debug\Diary.User.resources
+E:\Project C-Sharp\Diary\Diary\bin\Debug\Diary.exe.config
+E:\Project C-Sharp\Diary\Diary\bin\Debug\Diary.exe
+E:\Project C-Sharp\Diary\Diary\bin\Debug\Diary.pdb
+E:\Project C-Sharp\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+E:\Project C-Sharp\Diary\Diary\obj\Debug\Diary.DiaryForm.resources
+E:\Project C-Sharp\Diary\Diary\obj\Debug\Diary.HomePage.resources
+E:\Project C-Sharp\Diary\Diary\obj\Debug\Diary.LogIn.resources
+E:\Project C-Sharp\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+E:\Project C-Sharp\Diary\Diary\obj\Debug\Diary.SignUp.resources
+E:\Project C-Sharp\Diary\Diary\obj\Debug\Diary.User.resources
+E:\Project C-Sharp\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+E:\Project C-Sharp\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+E:\Project C-Sharp\Diary\Diary\obj\Debug\Diary.exe
+E:\Project C-Sharp\Diary\Diary\obj\Debug\Diary.pdb
